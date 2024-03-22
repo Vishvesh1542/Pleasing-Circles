@@ -1,0 +1,35 @@
+body {
+    background-color: #000;
+    filter: blur(350px);
+    -webkit-backdrop-filter: blur(255px); /* Webkit browsers */
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    perspective: 1000px
+  }
+
+  .circle {
+    border-radius: 50%;
+    height: 1000px;
+    aspect-ratio: 1;
+    position: absolute;
+  
+  }
+  
+  
+
+.red {
+  background-color: red;
+  left: -800px;
+  top: -400px;
+}
+
+
+.blue {
+    background-color: blue;
+
+    left: 1700px;
+  top: -30px;
+  }
+  
+

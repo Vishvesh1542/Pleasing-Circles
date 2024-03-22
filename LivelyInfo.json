@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Pleasing Circles",
+  "Thumbnail": "thumbnail.png",
+  "Preview": "preview.png",
+  "Desc": "Two circles which move random (can be controlled with left click and ctrl + click. Which make clean looking images.",
+  "Author": "Vishvesh Raj",
+  "License": null,
+  "Contact": "rajvishvesh01@gmail.com",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
